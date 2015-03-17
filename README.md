@@ -1,6 +1,6 @@
 # Java dockerfile
 
-This image contains a default configuration of Java OpenJDK 7 JRE based on [jakubzapletal/ubuntu:14.04](https://github.com/jakubzapletal/docker-ubuntu/tree/14.04).
+This image contains a default configuration of Java JDK 8 Oracle based on [jakubzapletal/ubuntu:14.04.1](https://github.com/jakubzapletal/docker-ubuntu/tree/14.04.1).
 
 ## Using the Docker Hub
  
